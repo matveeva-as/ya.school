@@ -1,0 +1,15 @@
+.error {
+   border: 1px solid red;
+}
+.success {
+  border: 1px solid green;
+}
+.progress {
+  border: 1px solid blue;
+}
+#resultContainer {
+  margin: 20px;
+  height: 100px;
+  background-color: #efefef;
+  width: 300px;
+}
